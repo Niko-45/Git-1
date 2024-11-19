@@ -14,8 +14,8 @@
 <h3>If you understand the topic very good you can easily create yourrepositry in Git Hub.</h3>
 <h2><b>Thanks for your attention.</b></h2>
 <p>Follow Us</p>
-<a href="">Instagram</a>
-<a href="">Facebook</a>
-<a href="">Twiter</a>
-<a href="">Youtube</a>
+<a href="" target="_blank">Instagram</a>
+<a href="" target="_blank">Facebook</a>
+<a href="" target="_blank">Twiter</a>
+<a href="" target="_blank">Youtube</a>
 
